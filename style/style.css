@@ -1,0 +1,69 @@
+body{
+	font-size: 1em;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FCF6E3;
+	text-align: center;
+	padding: centered;
+	line-height: 30px;
+	
+	
+  
+
+}
+p {
+	ont-size: 15 vw;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FCF6E3;
+	text-align: left;
+	padding: 20px;
+	line-height: 30px;
+	width: 30em;
+	float: left;
+	width: 50vw; 
+	height: auto;
+	max-height:  50vw;
+	
+
+}
+
+h1{
+	font-size: 6em;
+	font-family: 'sketsa-ramadhan-alternates';
+	color: #F3C320;
+	letter-spacing: -1px;
+	line-height: 10px;
+	padding-left: 80px;
+	padding-top: 20px;
+	text-align: center;
+	padding: centered;
+	line-height: 1px;
+	
+}
+
+@font-face {
+    font-family: 'sketsa-ramadhan-alternates';
+    src: url('sketsa-ramadhan-alternates.woff') format('woff'),
+         url('sketsa-ramadhan-alternates.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    color: goldenrod;
+}
+
+h2 {
+	font-size: 0.2 em;
+	font-family: 'baskerville';
+	color: #97856A;
+	letter-spacing: 30px;
+	margin-left: 10px; margin-bottom: 5px; margin-top: 10px;letter-spacing: 1px;
+	line-height: 0px;
+	padding-left: 80px;
+	padding-top: 0 px;
+	text-align: center;
+	padding: centered;
+	line-height: 60px;
+
+}
+img { width: 100vw; 
+	height: auto;
+	max-height:  100vw;
+}
